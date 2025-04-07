@@ -283,14 +283,10 @@ Users can customize various aspects of the application:
 
 ## 👥 Contributors
 
-- Sayandip Jana
-- Mohit Kumar Mishra
-- Anurag Pandey
+- Sai Sravanth
+- pawan
+- Vaybhav
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 *Built with ❤️ and Python*
